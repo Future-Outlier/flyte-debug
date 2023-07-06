@@ -9,3 +9,4 @@ To get up and running with your Flyte project, we recommend following the
 
 We recommend using a git repository to version this project, so that you can
 use the git sha to version your Flyte workflows.
+# flyte-debug
